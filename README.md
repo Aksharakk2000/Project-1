@@ -1,4 +1,4 @@
-# Project-1
+# Project 1- Stock Price Prediction and Analysis
 
 Reliance Industries Stock Forecast >
 
